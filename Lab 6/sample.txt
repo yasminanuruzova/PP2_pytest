@@ -1,0 +1,20 @@
+Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!
+Apple
+Banana
+Cherry
+Date
+Apple
+Banana
+Cherry
+Date
+Apple
+Apple
+Banana
+Cherry
+Date
+Apple
+Banana
+Cherry
+Date
