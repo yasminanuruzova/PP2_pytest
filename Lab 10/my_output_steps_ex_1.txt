@@ -1,0 +1,58 @@
+PS C:\Users\user\OneDrive>  & 'c:\Users\user\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '55008' '--' 'C:\Users\user\OneDrive\phonebook_app_full.py'
+
+PhoneBook Menu:
+1. Add new contact (console)
+2. Upload contacts from CSV 
+3. Update contact
+4. Search contact
+5. Delete contact
+6. Exit
+Choose option: 2
+Enter CSV file path: C:\\Users\\user\\OneDrive\\contacts.csv
+CSV data inserted.
+
+PhoneBook Menu:
+1. Add new contact (console)
+2. Upload contacts from CSV
+3. Update contact
+4. Search contact
+5. Delete contact
+6. Exit
+Choose option: 3
+Enter the name of the contact to update: yasmina
+Enter new name (press Enter to skip): yasya
+Enter new phone (press Enter to skip): +77002935920
+Contact updated.
+
+PhoneBook Menu:
+1. Add new contact (console)
+2. Upload contacts from CSV
+3. Update contact
+4. Search contact
+5. Delete contact
+6. Exit
+Choose option: 4
+Enter name or phone to search: yas
+ID: 1, Name: yasya, Phone: +77002935920
+
+PhoneBook Menu:
+1. Add new contact (console)
+2. Upload contacts from CSV
+3. Update contact
+4. Search contact
+5. Delete contact
+6. Exit
+Choose option: tim
+Invalid option. Try again.
+
+PhoneBook Menu:
+1. Add new contact (console)
+2. Upload contacts from CSV
+3. Update contact
+4. Search contact
+5. Delete contact
+6. Exit
+Choose option: 5
+Enter name or phone to delete: yasya
+Contact deleted if it existed.
+
